@@ -2,7 +2,7 @@
 
 Mini-projet de fin de module — Cloud Computing
 **Master IAC (Intelligence Artificielle et Cybersécurité)** — Faculté Polydisciplinaire de Béni Mellal, Université Sultan Moulay Slimane
-Réalisé par **Salma Ait Kaddour** et **Maryame Houssayni** — Année universitaire 2025/2026
+Réalisé par **Salma Ait Kaddour** — Année universitaire 2025/2026
 
 ---
 
